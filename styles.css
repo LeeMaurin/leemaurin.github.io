@@ -3,5 +3,13 @@
 }
 
 #intro {
-  background-image: "images/code.jpg";
+  background-image: url("images/code.jpg");
+  background-repeat: repeat;
+  height: 300px;
+  color: #000000;
+  opacity: .1;
+}
+
+.sectionImages {
+  border-radius: 50%;
 }
