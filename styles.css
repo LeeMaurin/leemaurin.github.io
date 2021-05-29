@@ -1,15 +1,23 @@
 * {
-  font-size: 14px;
+  font-size: 18px;
 }
 
 #intro {
   background-image: url("images/code.jpg");
   background-repeat: repeat;
   height: 300px;
-  color: #000000;
-  opacity: .1;
+  color: #fff;
+  opacity: 1;
 }
+
+#projects {
+background-color: rgb(206, 227, 245);
+height: 500px;
+color: #000;
+}
+
 
 .sectionImages {
   border-radius: 50%;
+  margin: 40px;
 }
