@@ -11,13 +11,13 @@
 }
 
 #projects {
-background-color: rgb(206, 227, 245);
+background-color: white;
 height: 400px;
 color: #000;
 }
 
 #education {
-  background-color: white;
+  background-color: rgb(206, 227, 245);
   height: 400px;
   color: #000;
 }
