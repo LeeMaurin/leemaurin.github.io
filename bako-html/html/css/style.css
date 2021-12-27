@@ -1692,4 +1692,17 @@ section.padding-60 {
   }
 }
 
+.darkText {
+  color: #000;
+  font-weight:700;
+}
+
+.expH6 {
+  margin-top: -20px;;
+}
+
+.noDot {
+  list-style-type: none;
+  line-height: 2.5em;
+}
 /*# sourceMappingURL=style.css.map */
